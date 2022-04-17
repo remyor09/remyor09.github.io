@@ -1,0 +1,41 @@
+#buttons{
+    margin: 10px 0px 10px 0px;
+}
+
+#card{
+    background-color: #F3F5FC;
+    margin: auto;
+    text-align: center;
+    width: 50%;
+}
+
+#input, #output{
+    border-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    height: 300px;
+    width: 400px;
+}
+
+#output{
+    height: 100px;
+    margin: auto;
+}
+
+.btn{ 
+    color: rgb(7, 6, 6);
+    border-radius: 9px;
+    font-size: 18px;
+    margin: 10px 10px;
+    padding: 10px;
+    width: 200px;
+}
+
+#encriptar{
+    background-color: #0A3871; 
+    color: #fff;  
+}
+
+h1, footer{
+    font-family: Arial, Helvetica, sans-serif;
+}
